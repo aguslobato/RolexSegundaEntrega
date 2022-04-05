@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Pollo",
+    "price": 555,
+    "stock": 250,
+    "id": 1
+  },
+  {
+    "id": 2,
+    "name": "mono",
+    "price": 250,
+    "stock": 500
+  },
+  {
+    "id": 4,
+    "name": "pato",
+    "price": 250,
+    "stock": 500
+  },
+  {
+    "id": 5,
+    "name": "chau",
+    "price": 250,
+    "stock": 500
+  },
+  {
+    "name": "baby Yoda",
+    "price": 3000,
+    "stock": 600,
+    "id": 6
+  },
+  {
+    "name": "baby Yoda",
+    "price": 3000,
+    "stock": 600,
+    "id": 7
+  },
+  {
+    "name": "baby Yoda",
+    "price": 3000,
+    "stock": 600,
+    "id": 8
+  },
+  {
+    "name": "baby Yoda",
+    "price": 3000,
+    "stock": 600,
+    "id": 9
+  }
+]
